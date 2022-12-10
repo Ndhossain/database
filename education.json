@@ -1,0 +1,26 @@
+[
+    {
+        "_id": 1,
+        "img": "https://1.bp.blogspot.com/-3vxpTIoL2sk/XZB_lY4BTVI/AAAAAAAAD-A/RS7d7VauwKkgW-2pmnxdIjBjvMTe-UamwCLcBGAsYHQ/s640/BOU%2Blogo.png",
+        "institute": "Bangladesh Open University",
+        "District": "Dinajpur",
+        "Starting": "2020",
+        "Passing": "Ongoing"
+    },
+    {
+        "_id": 2,
+        "img": "https://1.bp.blogspot.com/-3vxpTIoL2sk/XZB_lY4BTVI/AAAAAAAAD-A/RS7d7VauwKkgW-2pmnxdIjBjvMTe-UamwCLcBGAsYHQ/s640/BOU%2Blogo.png",
+        "institute": "Dinajpur Govt. City Collage",
+        "District": "Dinajpur",
+        "Starting": "2017-2020",
+        "Passing": "Ongoing"
+    },
+    {
+        "_id": 3,
+        "img": "https://1.bp.blogspot.com/-3vxpTIoL2sk/XZB_lY4BTVI/AAAAAAAAD-A/RS7d7VauwKkgW-2pmnxdIjBjvMTe-UamwCLcBGAsYHQ/s640/BOU%2Blogo.png",
+        "institute": "Dinajpur Zilla School",
+        "District": "Dinajpur",
+        "Starting": "2008",
+        "Passing": "2016"
+    }
+]
