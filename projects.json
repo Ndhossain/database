@@ -1,0 +1,20 @@
+[
+    {
+        "_id": 1,
+        "img": "https://i.ibb.co/nmN07xr/screencapture-cam-bazar-web-app-2022-12-11-00-46-31.png",
+        "projectName": "Cam Bazar - Second hand camera buying and selling website",
+        "description": "Cam Bazar is a camera buying and selling eCommerce platform. Users can create a seller or buyer account and sell cameras (seller roles only) and buyers (all roles) can buy & pay for the products. I used firebase auth to implement authentication and Stripe to implement the payment System. I implemented a dashboard for admin, sellers, and buyers based on their roles. Admin has a buyer and a seller management route. Sellers have routes for their product booking and selling history and new product-adding routes. Buyers have booked & paying and history managing route. Technologies: React.js, React router, Axios, React-Query, Tailwind(Flowbite), Firebase, JWT, Node.js,Express, MongoDB, React-stripe, Stripe."
+    },
+    {
+        "_id": 2,
+        "img": "https://i.ibb.co/nrMnKKP/screencapture-cam-eye-web-app-2022-12-11-00-45-30.png",
+        "projectName": "Cam Eye - Photography service website.",
+        "description": "Cam eye is a service review website. Users can check services and add a review for any services if they are logged in. Also, there is a blog page where any user can read the blogs. I implemented a dashboard for both the admin and the user. If The user is logged in then he will get access to the booking history route where he can edit, review or delete his/her reviews, and If the user is an admin then he will get a service-adding route and a user managing route. Technologies: React.js, React router, Axios, Tailwind(DaisyUI), Firebase, JWT, Node.js, Express, MongoDB."
+    },
+    {
+        "_id": 3,
+        "img": "https://i.ibb.co/3fT70Qm/screencapture-course-ful-web-app-2022-12-11-00-46-00.png",
+        "projectName": "Courseful — Course-selling website.",
+        "description": "Courseful is a course-selling website front-end focused project. Where users can log in with email/password, Google, and GitHub. I used firebase authentication to integrate the authentication. There are service, service details, and a blog page. On the service and service details page users can check the services, and service details. On the blog page, users can read the blogs. Technologies: React.js, Tailwind(DaisyUI), React router, Firebase, Node.js, Express."
+    }
+]
